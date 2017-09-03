@@ -2,6 +2,11 @@
 
 Yet another list of ML resources
 
+# Blogs
+
+http://colah.github.io/
+
+
 # Neural Networks
 
 ## CNN
