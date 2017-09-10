@@ -6,6 +6,18 @@ Yet another list of ML resources
 
 http://colah.github.io/
 
+## Selected Blog Entries
+
+How to interpret p-value histograms (Amazing post!): http://varianceexplained.org/statistics/interpreting-pvalue-histogram/
+
+Worth the read, even if you're painfully familiar with clustering techniques: 
+
+http://varianceexplained.org/r/kmeans-free-lunch/
+
+Uber's team
+
+https://eng.uber.com/michelangelo/
+https://eng.uber.com/neural-networks-uncertainty-estimation/
 
 # Neural Networks
 
