@@ -24,3 +24,8 @@ https://distill.pub/2016/augmented-rnns/
 
 https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
 
+## Misc-papers
+
+* Hidden technical debt in machine learning systems 
+
+https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
