@@ -2,6 +2,10 @@
 
 Yet another list of ML resources
 
+# Projects 
+
+https://github.com/tensorflow/lattice/blob/master/g3doc/tutorial/index.md
+
 # Blogs
 
 http://colah.github.io/
