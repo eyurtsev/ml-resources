@@ -12,18 +12,20 @@ http://colah.github.io/
 
 ## Selected Blog Entries
 
-How to interpret p-value histograms (Amazing post!): http://varianceexplained.org/statistics/interpreting-pvalue-histogram/
-
-Worth the read, even if you're painfully familiar with clustering techniques: 
-
-http://varianceexplained.org/r/kmeans-free-lunch/
+* Bias in timeseries: http://www.alexchinco.com/bias-in-time-series-regressions/
+* How to interpret p-value histograms (Amazing post!): http://varianceexplained.org/statistics/interpreting-pvalue-histogram/
+* Worth the read, even if you're painfully familiar with clustering techniques: http://varianceexplained.org/r/kmeans-free-lunch/
 
 Uber's team
 
 https://eng.uber.com/michelangelo/
 https://eng.uber.com/neural-networks-uncertainty-estimation/
 
+
+
 # Neural Networks
+
+* Set of articles: https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6
 
 ## CNN
 
@@ -45,3 +47,7 @@ https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resou
 * Hidden technical debt in machine learning systems 
 
 https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+
+
+
+
