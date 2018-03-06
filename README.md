@@ -45,7 +45,7 @@ Written really well and is available for free online.
 
 Kevin Murphy  https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=sr_1_1?ie=UTF8&qid=1512843644&sr=8-1&keywords=kevin+murphy+machine+learning
 
-Advanced ML -- This textbook is a bible of ML. Has a lot of useful material, but don't leave it for after you've got the grasp on basics.
+Advanced ML -- This textbook is a bible of ML. Has a lot of useful material, but leave it for after you've got the grasp on basics.
 
 ## Video Lectures
 
