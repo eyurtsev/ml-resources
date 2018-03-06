@@ -4,7 +4,7 @@ If you're interesting in picking up ML in a systematic manner. I'd recommend goi
  
 1. Pattern Recognition in ML (https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_3?ie=UTF8&qid=1520274288&sr=8-3&keywords=bishop+machine+learning)
 
-2. Hands on Machine Learning with scikit and tensor flow
+2. Hands on Machine Learning with scikit and tensor flow (https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_2?ie=UTF8&qid=1512843086&sr=8-2&keywords=hands+on+machine+learning)
 
 3. Introduction to Probability (https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1512843296&sr=1-1-spell&keywords=introduction+to+probability+john+tsitskilis)
 
