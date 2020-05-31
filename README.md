@@ -93,6 +93,15 @@ http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduc
 https://distill.pub/2016/augmented-rnns/
 
 
+## Transformers
+
+Overview section has a nice list of links 
+
+https://towardsdatascience.com/transformers-141e32e69591
+
+http://jalammar.github.io/illustrated-transformer/
+
+
 # List of tutorials
 
 https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
