@@ -93,6 +93,10 @@ http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduc
 https://distill.pub/2016/augmented-rnns/
 
 
+## Attention
+
+https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+
 ## Transformers
 
 Overview section has a nice list of links 
