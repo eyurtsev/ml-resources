@@ -1,117 +1,78 @@
-# Picking up ML (systematically)
+# 📘 Picking Up Machine Learning (Systematically)
 
-If you're interesting in picking up ML in a systematic manner. I'd recommend going with the following set of text books:
- 
-1. Pattern Recognition in ML (https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_3?ie=UTF8&qid=1520274288&sr=8-3&keywords=bishop+machine+learning)
+If you're interested in learning ML in a structured way, here’s a curated set of textbooks, lectures, and online resources.
 
-2. Hands on Machine Learning with scikit and tensor flow (https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_2?ie=UTF8&qid=1512843086&sr=8-2&keywords=hands+on+machine+learning)
+---
 
-3. Introduction to Probability (https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1512843296&sr=1-1-spell&keywords=introduction+to+probability+john+tsitskilis)
+## 📚 Core Textbooks
 
-As a serious practicioner of ML, you're to know the majority of material in these text books.
+### **Machine Learning**
 
-*Probability & Statistics*
+1. [*Pattern Recognition and Machine Learning* – Christopher Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_3?ie=UTF8&qid=1520274288&sr=8-3&keywords=bishop+machine+learning)  
+   A foundational ML book that covers theory and methods.
 
-Introduction to Probability https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1512843296&sr=1-1-spell&keywords=introduction+to+probability+john+tsitskilis
+2. [*Hands-On Machine Learning with Scikit-Learn and TensorFlow* – Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_2?ie=UTF8&qid=1512843086&sr=8-2&keywords=hands+on+machine+learning)  
+   Practical and surprisingly thorough; excellent explanations of neural networks.
 
-I'd recommend starting with this and reading it in its entirety if you haven't taken any courses in probability and statistics. This materials underpins most of ML. 
+3. [*Learning from Data* – Yaser Abu-Mostafa](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/ref=sr_1_1?s=books&ie=UTF8&qid=1512843162&sr=1-1&keywords=learning+from+data)  
+   Concise and accessible, with some deep insights.
 
-Probability Theory: The Logic of Science https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712
+4. [*Elements of Statistical Learning* – Hastie, Tibshirani, Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/) *(Free online)*  
+   A classic, mathematically rigorous book for statistical ML.
 
-Extremely well written and unusual. Deals with philosophical questions as well. 
+5. [*Machine Learning: A Probabilistic Perspective* – Kevin Murphy](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=sr_1_1?ie=UTF8&qid=1512843644&sr=8-1&keywords=kevin+murphy+machine+learning)  
+   Advanced ML reference; best after mastering the basics.
 
+---
 
-Statistical Inference  https://www.amazon.com/Statistical-Inference-George-Casella/dp/8131503941/ref=sr_1_1?s=books&ie=UTF8&qid=1512843382&sr=1-1&keywords=Statistical+inference+casella
+### **Probability & Statistics**
 
-More advanced treatment of statistical inference.
+1. [*Introduction to Probability* – Bertsekas & Tsitsiklis](https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1512843296&sr=1-1-spell&keywords=introduction+to+probability+john+tsitskilis)  
+   Start here if you’re new to probability and statistics.
 
-*ML*
+2. [*Probability Theory: The Logic of Science* – E.T. Jaynes](https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712)  
+   Philosophically rich and very well-written.
 
-Pattern Recognition in ML https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_3?ie=UTF8&qid=1520274288&sr=8-3&keywords=bishop+machine+learning
+3. [*Statistical Inference* – Casella & Berger](https://www.amazon.com/Statistical-Inference-George-Casella/dp/8131503941/ref=sr_1_1?s=books&ie=UTF8&qid=1512843382&sr=1-1&keywords=Statistical+inference+casella)  
+   More advanced treatment of inference.
 
-This is a good book for getting started with ML
+---
 
-Hands on Machine Learning with scikit and tensor flow: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_2?ie=UTF8&qid=1512843086&sr=8-2&keywords=hands+on+machine+learning
+## 🎥 Video Lectures
 
-Surprisingly good for a textbook that is supposed to be hands on. There are extremely clear explanations on various neural network architectures and tensor flow.
+- [Mathematical Monk YouTube Series](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA)  
+- [Learning from Data – Caltech](https://work.caltech.edu/lectures.html#lectures)
 
-Learning from data https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/ref=sr_1_1?s=books&ie=UTF8&qid=1512843162&sr=1-1&keywords=learning+from+data
+---
 
-This textbook is short and written exceptionally well. It's at an introductory level, but also has some advanced ideas that aren't covered in other textbooks.
+## 🧠 Neural Networks & Deep Learning
 
-Elements of Statistical Learning:  https://web.stanford.edu/~hastie/ElemStatLearn/
+### General
 
-Written really well and is available for free online. 
+- [Applied Deep Learning Series – Towards Data Science](https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
 
-Kevin Murphy  https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=sr_1_1?ie=UTF8&qid=1512843644&sr=8-1&keywords=kevin+murphy+machine+learning
+### CNNs
 
-Advanced ML -- This textbook is a bible of ML. Has a lot of useful material, but leave it for after you've got the grasp on basics.
+- [CS231n – Stanford CNN Course](http://cs231n.github.io/)
 
-## Video Lectures
+### RNNs
 
-- Video lecture series by Mathematical Monk:  https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA
-- Learning from Data (https://work.caltech.edu/lectures.html#lectures).
-- There are other excellent courses -- but these are the ones that I've watched. 
+- [WildML – RNN Introduction](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+- [Distill – Augmented RNNs](https://distill.pub/2016/augmented-rnns/)
 
+### Attention & Transformers
 
-# List of ML Nuggets (things that are not textbooks or video lectures)
+- [Transformers Overview – Towards Data Science](https://towardsdatascience.com/transformers-141e32e69591)  
+- [Illustrated Transformer – Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
 
-Yet another list of ML resources
+---
 
-# Projects 
+## 📄 Blogs & Articles
 
-https://github.com/tensorflow/lattice/blob/master/g3doc/tutorial/index.md
+- [Colah's Blog](http://colah.github.io/)
 
-# Blogs
+### Selected Blog Posts
 
-http://colah.github.io/
-
-## Selected Blog Entries
-
-* Bias in timeseries: http://www.alexchinco.com/bias-in-time-series-regressions/
-* How to interpret p-value histograms (Amazing post!): http://varianceexplained.org/statistics/interpreting-pvalue-histogram/
-* Worth the read, even if you're painfully familiar with clustering techniques: http://varianceexplained.org/r/kmeans-free-lunch/
-
-Uber's team
-
-https://eng.uber.com/michelangelo/
-https://eng.uber.com/neural-networks-uncertainty-estimation/
-
-
-# Neural Networks
-
-* Set of articles: https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6
-
-## CNN
-
-http://cs231n.github.io/
-
-## Recurrent Neural Networks
-
-http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
-
-https://distill.pub/2016/augmented-rnns/
-
-
-## Attention
-
-https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
-
-## Transformers
-
-Overview section has a nice list of links 
-
-https://towardsdatascience.com/transformers-141e32e69591
-
-http://jalammar.github.io/illustrated-transformer/
-
-
-# List of tutorials
-
-https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
-
-## Misc-papers
-
-* Hidden technical debt in machine learning systems 
-
-https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+- [Bias in Time Series Regressions – Alex Chinco](http://www.alexchinco.com/bias-in-time-series-regressions/)
+- [How to Interpret P-Value Histograms – Variance Explained](http://varianceexplained.org/statistics/interpreting-pvalue-histogram/) ⭐  
+- [K-Means & Free Lunch – Variance Explained](http://varianceexplained.org/r/kmeans-free-lunch/)
